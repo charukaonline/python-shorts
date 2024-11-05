@@ -1,2 +1,2 @@
 # python-shorts
-Simple python programs form fun ;)
+Simple python programs for fun ;)
