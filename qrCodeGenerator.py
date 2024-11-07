@@ -16,3 +16,5 @@ qr.add_data(data)
 image = qr.make_image(fill_color="black", back_color="white")
 image.save(filepath)
 print(f"QR code saved as {filepath}")
+
+# this is a test line
