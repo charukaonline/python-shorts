@@ -2,7 +2,7 @@ import qrcode
 import os
 
 data = input("Enter the text or URL of the website: ").strip()
-filename = input("Enter the filename: ").strip()
+filename = input("Enter the filename with .png extension: ").strip()
 directory = input("Enter the directory to save the file: ").strip()
 
 # Ensure the directory exists
